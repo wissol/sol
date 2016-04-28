@@ -10,19 +10,18 @@
 * tirada = suma del valor de los dados
 * n = número de dados
 
-### Dados: 
+Tantos d20 como el valor de Estabilidad dividido por 10, redondeado al valor más cercano, con un mínimo de 1. El resultado se divide por el número de dados, redondeado también al valor más cercano (el 3.5 se redondea 3, 3.6 se redondea a 4)
 
-Tantos d20 como el valor de Estabilidad dividido por 10, redondeado al valor más cercano, con un mínimo de 1. 
-(Los valores están calculados más abajo en la siguiente tabla) 
+(Las tiradas están ya calculadas en la siguiente tabla) 
 
 ### Tabla
 
-| Estabilidad   | Dados   |
-|:-------------:|:-------:|
-| 0-15		|    1    |
-| 16-25         |    2    |
-| 26-35         |    3    |
-| 36-40	        |    4    |
+| Estabilidad   | Tirada   |
+|:-------------:|:--------:|
+| 0-15		|  1d20    |
+| 16-25         |  2d20/2  |
+| 26-35         |  3d20/3  |
+| 36-40	        |  4d20/4  |
 
 Por ejemplo: El valor de estabilidad es 20; la tirada 2d20/2
 
