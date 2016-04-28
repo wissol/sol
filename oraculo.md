@@ -7,10 +7,12 @@
 
 ## Tirada: tirada / n
 
-tirada = suma del valor de los dados
-n = número de dados
+* tirada = suma del valor de los dados
+* n = número de dados
 
-Dados: Tantos d20 como el valor de Estabilidad dividido por 10, redondeado al valor más cercano. 
+### Dados: 
+
+Tantos d20 como el valor de Estabilidad dividido por 10, redondeado al valor más cercano. 
 (Los valores están calculados más abajo en la siguiente tabla) 
 
 ### Tabla
